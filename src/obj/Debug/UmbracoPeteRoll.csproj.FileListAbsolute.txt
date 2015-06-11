@@ -1,0 +1,7 @@
+D:\Github\UmbracoPeteRoll\src\obj\Debug\UmbracoPeteRoll.csprojResolveAssemblyReference.cache
+D:\Github\UmbracoPeteRoll\src\bin\Debug\ImageProcessor.Web.Plugins.UmbracoPeteRoll.dll
+D:\Github\UmbracoPeteRoll\src\bin\Debug\ImageProcessor.Web.Plugins.UmbracoPeteRoll.pdb
+D:\Github\UmbracoPeteRoll\src\bin\Debug\ImageProcessor.dll
+D:\Github\UmbracoPeteRoll\src\bin\Debug\ImageProcessor.Web.dll
+D:\Github\UmbracoPeteRoll\src\obj\Debug\ImageProcessor.Web.Plugins.UmbracoPeteRoll.dll
+D:\Github\UmbracoPeteRoll\src\obj\Debug\ImageProcessor.Web.Plugins.UmbracoPeteRoll.pdb
