@@ -4,7 +4,7 @@ Introducing **UmbracoPeteRoll**, a variation on the classic RickRoll.
 
 A fun little package that randomly replaces your boring stock website images with classic renderings of everybody's favourite code-first hero, and bingo fluffer - Pete Duncanson
 
-Built during CodeGarden 2015 to demonstrate the flexibility of **ImageProcessor** this natty little plugin will give you seconds of hilarity.
+Built during CodeGarden 2015 to demonstrate the flexibility of **ImageProcessor** this natty little plugin will guarantee you seconds of hilarity.
 
 ![Break the Internet](src/Resources/pete3.jpg)
 
