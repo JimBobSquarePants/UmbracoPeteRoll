@@ -10,6 +10,6 @@ Built during CodeGarden 2015 to demonstrate the flexibility of **ImageProcessor*
 
 ###Usage
 
-Simply install the package and away you go. **ImageProcessor** will do the rest. If using the configuration files add the following line to your `processing.config`
+Simply [install](https://www.nuget.org/packages/UmbracoPeteRoll/) the package and away you go. **ImageProcessor** will do the rest. If using the configuration files add the following line to your `processing.config`
 
     <plugin name="PeteRollWeb" type="ImageProcessor.Web.Plugins.UmbracoPeteRoll.Processors.PeteRollWeb, ImageProcessor.Web.Plugins.UmbracoPeteRoll" />
